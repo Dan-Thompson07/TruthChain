@@ -59,7 +59,7 @@ The model was modified for our project's needs
 - Users can trust that no verified record can ever be altered or forged.
 
 #
-Blocklink:
+**Blocklink**: Paste blocklink link here when ready 
 
-Presentation slides: https://www.canva.com/design/DAG2JagpovE/NmgKOyeF5YRgclb5q5H4Og/edit?utm_content=DAG2JagpovE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+**Presentation slides**: https://www.canva.com/design/DAG2JagpovE/NmgKOyeF5YRgclb5q5H4Og/edit?utm_content=DAG2JagpovE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
