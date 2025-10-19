@@ -3,39 +3,14 @@ TruthChain is a decentralized platform that uses AI to detect fake news and Alge
 
 Insert demo video and screen shots here
 
-# 📃Contract 1: write here
+# 📃Contract 1: NFT Minter & Creator 
  **Purpose:**
-write here
-
- **Key Funcions:**
- - write here
- - write here
- - write here
+Creates an NFT via an inner transaction 
 
 **Security**
-- write here
-- write here
+- The use of IPFS for metadata storage, along with the inclusion of a metadata hash in the asset parameters, helps ensure the integrity and immutability of the NFT’s metadata
+- The contract ensures that only the correct party (typically the contract itself or a designated manager) can mint the NFT.
 
-**Scalability**
-    
-  Write here
-
-# 📃Contract 2: Write here
-**Purpose:**
-write here
-
- **Key Funcions:**
- - write here
- - write here
- - write here
-
-**Security**
-- write here
-- write here
-
-**Scalability**
-    
-  Write here
  
 # 👮 Key Security Features
 - **SHA-256 Hash stored on clockchain for article integrity**:
