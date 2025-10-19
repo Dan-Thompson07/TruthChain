@@ -3,8 +3,40 @@ TruthChain is a decentralized platform that uses AI to detect fake news and Alge
 
 Insert demo video and screen shots here
 
-# Contract 1:
--
+# 📃Contract 1: write here
+ **Purpose:**
+write here
+
+ **Key Funcions:**
+ - write here
+ - write here
+ - write here
+
+**Security**
+- write here
+- write here
+
+**Scalability**
+    
+  Write here
+
+# 📃Contract 2: Write here
+**Purpose:**
+write here
+
+ **Key Funcions:**
+ - write here
+ - write here
+ - write here
+
+**Security**
+- write here
+- write here
+
+**Scalability**
+    
+  Write here
+ 
 # 👮 Key Security Features
 - **SHA-256 Hash stored on clockchain for article integrity**:
   Provides proof of authenticity without having to store the article itself
