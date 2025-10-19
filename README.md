@@ -41,6 +41,14 @@ Creates an NFT via an inner transaction
 # ✅ Final Summary
 TruthChain secures its AI verification process using SHA-256 hashing and Algernon smart contracts, ensuring that every news article’s integrity and authenticity can be independently verified, permanently stored, and protected from tampering.
 
+The pre-made AI model is referenced here:
+ https://github.com/kapilsinghnegi/Fake-News-Detection/tree/main
+   
+   Made by Kapil Singh Negi
+   
+   The model was modified for our project's needs
+#
+
  **This architecture ensures that**:
 - Every article’s fingerprint is securely hashed and immutably stored on-chain.
 - Verification data remains tamper-proof and publicly auditable.
