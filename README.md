@@ -4,23 +4,24 @@ TruthChain is a decentralized platform that uses AI to detect fake news and Alge
 Insert demo video and screen shots here
 
 # 📃Contract 1: NFT Minter & Creator 
- **Purpose:**
+**Purpose:**
 Creates an NFT via an inner transaction 
 
 **Security**
 - The use of IPFS for metadata storage, along with the inclusion of a metadata hash in the asset parameters, helps ensure the integrity and immutability of the NFT’s metadata
 - The contract ensures that only the correct party (typically the contract itself or a designated manager) can mint the NFT.
+<br/>
 
- 
 # 👮 Key Security Features
 - **SHA-256 Hash stored on clockchain for article integrity**:
-  Provides proof of authenticity without having to store the article itself
+Provides proof of authenticity without having to store the article itself
 
 - **Immutable Storage of results on the Algernon Blockchain**:
-  AI results are written to the blockchain using Algernon smart contracts, which guarantees that verification results stay permanent and trustworthy.
+AI results are written to the blockchain using Algernon smart contracts, which guarantees that verification results stay permanent and trustworthy.
 -  **Data Privacy Through Off-Chain Storage**:
-  The full article text and AI analysis are stored off-chain, meaning that Users’ data stays private while still verifiable via the hash.
+The full article text and AI analysis are stored off-chain, meaning that Users’ data stays private while still verifiable via the hash.
 
+<br/>
 
 # System interaction flow
 
@@ -38,18 +39,20 @@ Creates an NFT via an inner transaction
 
 **7.** Frontend displays results to the user — including the Reliability Score and the blockchain verification hash for transparency.
 
+<br/>
+
 # ✅ Final Summary
 TruthChain secures its AI verification process using SHA-256 hashing and Algernon smart contracts, ensuring that every news article’s integrity and authenticity can be independently verified, permanently stored, and protected from tampering.
 
 The pre-made AI model is referenced here:
- https://github.com/kapilsinghnegi/Fake-News-Detection/tree/main
-   
-   Made by Kapil Singh Negi
-   
-   The model was modified for our project's needs
+https://github.com/kapilsinghnegi/Fake-News-Detection/tree/main
+
+Made by Kapil Singh Negi
+
+The model was modified for our project's needs
 #
 
- **This architecture ensures that**:
+**This architecture ensures that**:
 - Every article’s fingerprint is securely hashed and immutably stored on-chain.
 - Verification data remains tamper-proof and publicly auditable.
 - AI models can evolve independently while maintaining historical integrity.
@@ -58,5 +61,5 @@ The pre-made AI model is referenced here:
 #
 Blocklink:
 
- Presentation slides: https://www.canva.com/design/DAG2JagpovE/NmgKOyeF5YRgclb5q5H4Og/edit?utm_content=DAG2JagpovE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Presentation slides: https://www.canva.com/design/DAG2JagpovE/NmgKOyeF5YRgclb5q5H4Og/edit?utm_content=DAG2JagpovE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
